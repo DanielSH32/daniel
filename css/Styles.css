@@ -1,0 +1,139 @@
+
+hr {
+
+     border-style: double border ;
+     
+     width: 5%;
+     border-width: 5px;
+     color: #1e212d;
+     clear: left;
+     margin: 50px auto 50px ;
+ }
+ .photo{
+     width:200px;
+     height:200px;
+     border-radius:150px;
+     border:5px solid #1e212d;
+ }
+ h1{
+     line-height: 2;
+     width: 20%;
+     margin: 0 auto 0 auto;
+     font-family: 'Lobster', cursive;
+     font-size: 500%;
+     color: #290149;
+     
+ }
+ h2 {
+     font-family: 'Quicksand', sans-serif;
+     font-size: 2.5rem;
+     padding-bottom: 10px;
+     
+     color: #290149;
+ }
+ h3{
+     
+     color: #290149;
+ }
+ .top-container {
+     background-color: #ccf2f4;
+     padding-top: 100px;
+ 
+ }
+ .middle-container {
+     margin-top: 100px;
+ }
+ 
+ .bottom-container {
+     background-color: white;
+ }
+ 
+ body{
+     background-color: #deecff;
+     margin: 0;
+     text-align: center;
+     color: black;
+     font-family: 'Quicksand', sans-serif;
+ }
+ .bottom-ave{
+     position: absolute;
+     right: 150px;
+     bottom: 30%px;
+ 
+ }
+ .top-aguila {
+     right: 750px;
+     top: 50px;
+     position: absolute;
+ }
+ p{
+     line-height: 2;
+ }
+
+ .hab-row{
+     width: 50%;
+     margin: 100px auto 100px auto;
+     line-height: 2;
+ }
+
+ .hobby-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+.food-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+.drink-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+.carrera-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+ .giphy-embed{
+     width: 50%;
+     float: left;
+     margin-right: 30px;
+     position: relative;
+     height: 400px;
+ }
+ 
+ .code-image{
+     width: 25%;
+     height: 200px;
+     float: right;
+     position: relative;
+     margin-left: 50px;
+ }
+ .dan-p {
+     clear: right;
+ }
+ .dan-p2 {
+     clear: left;
+ }
+ 
+   .contact-me{
+     margin-bottom: 100px;
+   }
+   .bottom-container{
+       background-color: #ccf2f4;
+       padding: 50px 0 20px;
+   }
+ 
+   .copyright{
+     padding: 20px 0px ;
+     font-family: 'Quicksand', sans-serif;
+     color: black;
+     font-size: 0.75rem;
+   }
